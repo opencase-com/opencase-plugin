@@ -1,0 +1,14 @@
+{
+  "name": "opencase",
+  "displayName": "OpenCase",
+  "version": "1.0.0",
+  "description": "Check every citation and quotation in legal writing against the law itself, and answer legal questions with verified authority.",
+  "author": {
+    "name": "OpenCase",
+    "email": "support@opencase.com",
+    "url": "https://www.opencase.com"
+  },
+  "homepage": "https://www.opencase.com",
+  "license": "MIT",
+  "keywords": ["legal", "law", "citations", "cite-check", "case-law", "litigation", "in-house"]
+}

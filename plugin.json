@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "opencase",
+  "version": "1.0.0",
+  "description": "Check every citation and quotation in legal writing against the law itself, and answer legal questions with verified authority.",
+  "author": {
+    "name": "OpenCase",
+    "email": "support@opencase.com",
+    "url": "https://www.opencase.com"
+  },
+  "homepage": "https://www.opencase.com",
+  "license": "MIT",
+  "keywords": ["legal", "law", "citations", "cite-check", "case-law", "litigation", "in-house"],
+  "extensions": {
+    "com.openai": {
+      "hooks": "./hooks/hooks.json",
+      "interface": {
+        "displayName": "OpenCase",
+        "shortDescription": "Verify legal citations and quotations",
+        "longDescription": "OpenCase checks every citation in a brief, memo, or contract against the source, confirms quotations appear word for word, flags cases with negative treatment, and answers legal questions with authority it has verified.",
+        "developerName": "OpenCase",
+        "category": "Productivity",
+        "capabilities": ["Read"],
+        "websiteURL": "https://www.opencase.com",
+        "privacyPolicyURL": "https://www.opencase.com/privacy",
+        "termsOfServiceURL": "https://www.opencase.com/terms",
+        "defaultPrompt": "Cite-check this brief and give me a table of authorities.",
+        "brandColor": "#1F2937",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "opencase": {
+      "type": "http",
+      "url": "https://www.opencase.com/mcp"
+    }
+  }
+}
