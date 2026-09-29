@@ -10,9 +10,6 @@
   },
   "homepage": "https://www.opencase.com",
   "repository": "https://github.com/opencase-com/opencase-plugin",
-  "documentationUrl": "https://github.com/opencase-com/opencase-plugin#readme",
-  "privacyPolicyUrl": "https://www.opencase.com/privacy",
-  "termsOfServiceUrl": "https://www.opencase.com/terms",
   "license": "MIT",
   "keywords": ["legal", "law", "citations", "cite-check", "case-law", "litigation", "in-house"]
 }
