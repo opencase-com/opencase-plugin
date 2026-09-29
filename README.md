@@ -13,7 +13,7 @@ The same plugin runs in Claude (Claude Code and Cowork) and in ChatGPT and Codex
 
 ## Setup
 
-Install the plugin, then connect your OpenCase account when prompted. You can log in or create an account from the connection screen. OpenCase is a paid service; see [opencase.com](https://www.opencase.com) for plans.
+Install the plugin, then connect your OpenCase account when prompted. You can log in or create an account from the connection screen. A free account includes 10 tool calls a day; a paid plan removes the limit. See [opencase.com](https://www.opencase.com) for plans.
 
 ## Data and privacy
 
