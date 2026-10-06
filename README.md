@@ -6,14 +6,14 @@ The same plugin runs in Claude (Claude Code and Cowork) and in ChatGPT and Codex
 
 ## What you get
 
-- **Cite-check skill.** Ask for a cite-check of a document and get a table of authorities: each citation's status, whether its quotation matches, its good-law flag, and a diligence receipt to keep with the file.
+- **Cite-check skill.** Ask for a cite-check of a document (in Claude Code, `/opencase:cite-check`) and get a table of authorities: each citation's status, whether its quotation matches, its good-law flag, and a diligence receipt to keep with the file.
 - **Verify-before-finishing skill.** Whenever an answer is about to cite legal authority, the citations are verified with OpenCase first, and anything that fails is removed or flagged.
 - **A stop check** (Claude Code and Cowork). If an answer cites legal authority and no OpenCase verification ran during that turn, the agent is asked once to verify before it finishes.
 - **The OpenCase tools:** legal research, document review, citation detection and verification, authority retrieval, quotation checking, case validity and treatment, and federal docket search.
 
 ## Setup
 
-Install the plugin, then connect your OpenCase account when prompted. You can log in or create an account from the connection screen. A free account includes 10 tool calls a day; a paid plan removes the limit. See [opencase.com](https://www.opencase.com) for plans.
+Install the plugin and try it: the first 10 tool calls each day work without an account. Then connect your OpenCase account when prompted. You can log in or create an account from the connection screen. A free account includes 50 citation lookups a day, plus the research questions it shares with OpenCase web chat; a paid plan removes the limit. See [opencase.com](https://www.opencase.com) for plans.
 
 ## Data and privacy
 
