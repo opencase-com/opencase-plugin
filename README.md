@@ -13,7 +13,7 @@ The same plugin runs in Claude (Claude Code and Cowork) and in ChatGPT and Codex
 
 ## Setup
 
-Install the plugin and try it: the first 10 tool calls each day work without an account. Then connect your OpenCase account when prompted. You can log in or create an account from the connection screen. A free account includes 50 citation lookups a day, plus the research questions it shares with OpenCase web chat; a paid plan removes the limit. See [opencase.com](https://www.opencase.com) for plans.
+Install the plugin, then connect your OpenCase account when prompted. You can log in or create a free account from the connection screen. A free account includes 50 citation lookups a day, plus the research questions it shares with OpenCase web chat; a paid plan removes the limit. See [opencase.com](https://www.opencase.com) for plans.
 
 ## Data and privacy
 
